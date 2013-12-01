@@ -1,3 +1,8 @@
+body{
+font-family:sans-serif;
+font-size:0.75em;
+}
+
 ul{
 list-style-type:none;
 padding:0;
@@ -30,7 +35,7 @@ left:0;
 .title,.options li{
 width: 100%;
 text-align:center;
-line-height:30px;
+line-height:35px;
 }
 
 .options li{
