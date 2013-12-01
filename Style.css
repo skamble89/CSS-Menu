@@ -30,9 +30,7 @@ left:0;
 .title,.options li{
 width: 100%;
 text-align:center;
-padding-top: 5px;
-padding-bottom: 5px;
-
+line-height:30px;
 }
 
 .options li{
@@ -57,7 +55,7 @@ color:white;
 .menu:hover>.options{
 display:inline-block;
 left:100px;
-border:1px solid #666;
+box-shadow:3px 3px 3px;
 }
 
 .menu:hover>.options>li{
